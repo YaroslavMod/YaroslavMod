@@ -19,6 +19,5 @@ internal class Program
         float ogurchik;
         bool pomidorchik;
         var kartoshecka = 3;
-
     }
 }
