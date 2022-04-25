@@ -1,4 +1,8 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 internal class Program
 {
@@ -8,12 +12,13 @@ internal class Program
         int oliveshka;
         uint seledkaPodShyboi;
         byte cezar;
-        sbyte grecheskii;
+        sbyte grecheski;
         short sKrabovimiPalochkami;
         ushort morkovkaPoKoreiski;
         string frukt;
         float ogurchik;
-        bool poleznoe;
+        bool pomidorchik;
         var kartoshecka = 3;
+
     }
 }
